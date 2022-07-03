@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.2ac6ab8a.chunk.js": "/restaurant/static/js/0.2ac6ab8a.chunk.js",
+    "static/js/0.2ac6ab8a.chunk.js.map": "/restaurant/static/js/0.2ac6ab8a.chunk.js.map",
+    "static/js/1.abc6e8f4.chunk.js": "/restaurant/static/js/1.abc6e8f4.chunk.js",
+    "static/js/1.abc6e8f4.chunk.js.map": "/restaurant/static/js/1.abc6e8f4.chunk.js.map",
+    "main.css": "/restaurant/static/css/main.2d530e93.chunk.css",
+    "main.js": "/restaurant/static/js/main.9bf23d47.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.9bf23d47.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.fe29a6ba.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.fe29a6ba.js.map",
+    "static/css/4.ffda3d49.chunk.css": "/restaurant/static/css/4.ffda3d49.chunk.css",
+    "static/js/4.8f462a67.chunk.js": "/restaurant/static/js/4.8f462a67.chunk.js",
+    "static/js/4.8f462a67.chunk.js.map": "/restaurant/static/js/4.8f462a67.chunk.js.map",
+    "static/js/5.e96bbe50.chunk.js": "/restaurant/static/js/5.e96bbe50.chunk.js",
+    "static/js/5.e96bbe50.chunk.js.map": "/restaurant/static/js/5.e96bbe50.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/css/4.ffda3d49.chunk.css.map": "/restaurant/static/css/4.ffda3d49.chunk.css.map",
+    "static/css/main.2d530e93.chunk.css.map": "/restaurant/static/css/main.2d530e93.chunk.css.map",
+    "static/js/0.2ac6ab8a.chunk.js.LICENSE.txt": "/restaurant/static/js/0.2ac6ab8a.chunk.js.LICENSE.txt",
+    "static/js/4.8f462a67.chunk.js.LICENSE.txt": "/restaurant/static/js/4.8f462a67.chunk.js.LICENSE.txt",
+    "static/media/catering.23a14be6.pdf": "/restaurant/static/media/catering.23a14be6.pdf",
+    "static/media/drink.8ede2912.pdf": "/restaurant/static/media/drink.8ede2912.pdf",
+    "static/media/food.f3b97ea3.pdf": "/restaurant/static/media/food.f3b97ea3.pdf",
+    "static/media/icons8-facebook.d8ecc4d9.svg": "/restaurant/static/media/icons8-facebook.d8ecc4d9.svg",
+    "static/media/icons8-instagram.9e3ad4e1.svg": "/restaurant/static/media/icons8-instagram.9e3ad4e1.svg",
+    "static/media/lasagna.e65e6ddd.jpg": "/restaurant/static/media/lasagna.e65e6ddd.jpg",
+    "static/media/loading.6f932f5e.svg": "/restaurant/static/media/loading.6f932f5e.svg",
+    "static/media/pizza.685ff9ec.jpg": "/restaurant/static/media/pizza.685ff9ec.jpg",
+    "static/media/spaghetti.11cecfdf.jpg": "/restaurant/static/media/spaghetti.11cecfdf.jpg",
+    "static/media/App.scss": "/restaurant/static/media/wine.9deb7281.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe29a6ba.js",
+    "static/css/4.ffda3d49.chunk.css",
+    "static/js/4.8f462a67.chunk.js",
+    "static/css/main.2d530e93.chunk.css",
+    "static/js/main.9bf23d47.chunk.js"
+  ]
+}
